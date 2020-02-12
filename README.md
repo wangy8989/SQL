@@ -1,4 +1,5 @@
-# SQL
+# SQL projects
+This folder contains 2 sql projects in python.
 ## Project 1  
 We use bigquery and public Austin bike share dataset from Google cloud to build a linear regression model to predict the number of rides based on the station where the trip starts and the hour when the trip started. The result shows our model performs badly, having a negative R squared.  
 ## Project 2  
